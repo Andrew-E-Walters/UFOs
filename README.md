@@ -22,11 +22,11 @@ In the Module we only had the date filter. Now that we have added the other filt
 
 # Summary
 ## Drawback 
-One thing that I have identified as a drawback is that our search bar does not have a feature where we could group the sightings by the comments on the description of the UFO. For example: the comment on one of the UFO’s being “4 Bright Green Circles” would possibly be more credible or valuable if we could filter based on that description to see if that was a common sighting or if this was the only case. If we then identify a similar description of a UFO that could give more credibility to the story and could help us in our research. 
+One thing that I have identified as a drawback is that our search bar does not have a feature where we could group the sightings by the comments on the description of the UFO. 
 
 ![Benton Data](https://github.com/Andrew-E-Walters/UFOs/blob/main/images/Benton.png)
 
-refering back to our earlier example of this benton data that 
+For example: the comment on one of the UFO’s being “4 Bright Green Circles” would possibly be more credible or valuable if we could filter based on that description to see if that was a common sighting or if this was the only case. If we then identify a similar description of a UFO that could give more credibility to the story and could help us in our research. Right now we are unable to see if there is a pattern in the comment data.
 
 ## Recommendation
 1.	I would include a filter based on key words in the comments section of the data that grabs UFO sightings based on similar descriptions. This would help in our research greatly and could prove to be more vital than other filter criteria. 
