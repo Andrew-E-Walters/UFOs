@@ -15,6 +15,8 @@ We can see that Datetime, City, State, Country, Shape, Duration, and comments ar
 # Results
 
 #### Webpage with multiple filters
+Where before the only filter we had was based on the date we entered, the new webpage allows for the user to enter in multiple criteria. I will go over how we came to use this data, and how our updated webpage is a better tool now that it is equiped with these additional filters. 
+
 ![](https://github.com/Andrew-E-Walters/UFOs/blob/main/images/Completed%20Module%20Challenge.png)
 
 ## Performing a search 
