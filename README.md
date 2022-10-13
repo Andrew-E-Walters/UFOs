@@ -4,7 +4,7 @@
 ## Background
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, we will add table filters for the city, state, country, and shape.
 
-![](https://github.com/Andrew-E-Walters/UFOs/blob/main/images/Completed%20Module.png)
+![](https://github.com/Andrew-E-Walters/UFOs/blob/main/images/Completed%20Module%20Challenge.png)
 
 As we can see the data right now will only filter to the date. While that is helpful for analysis, it would be more beneficial for the filter to be able to handle multiple criteria. Looking at the data.js file we can see that there is more that could be filtered. 
 
@@ -24,7 +24,7 @@ In the Module we only had the date filter. Now that we have added the other filt
 ## Drawback 
 One thing that I have identified as a drawback is that our search bar does not have a feature where we could group the sightings by the comments on the description of the UFO. For example: the comment on one of the UFO’s being “4 Bright Green Circles” would possibly be more credible or valuable if we could filter based on that description to see if that was a common sighting or if this was the only case. If we then identify a similar description of a UFO that could give more credibility to the story and could help us in our research. 
 
-![Data](https://github.com/Andrew-E-Walters/UFOs/blob/main/images/Exaple%20of%20Data.png)
+![Benton Data](https://github.com/Andrew-E-Walters/UFOs/blob/main/images/Benton.png)
 
 refering back to our earlier example of this benton data that 
 
